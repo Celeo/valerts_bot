@@ -1,0 +1,5 @@
+app = "celeo-valerts-bot"
+primary_region = "lax"
+
+[env]
+  RUST_LOG = "valerts_bot"
