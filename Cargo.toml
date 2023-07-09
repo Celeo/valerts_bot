@@ -2,10 +2,10 @@
 name = "valerts_bot"
 version = "0.1.0"
 edition = "2021"
-description = ""
+description = "Discord bot to serve VATSIM alerts to users"
 readme = "README.md"
-homepage = ""
-repository = ""
+homepage = "https://github.com/Celeo/valerts_bot"
+repository = "https://github.com/Celeo/valerts_bot"
 license = "MIT OR Apache-2.0"
 exclude = [".github"]
 
